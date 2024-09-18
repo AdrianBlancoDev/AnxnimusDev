@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnxnimusDev, my name is Adrián Blanco, and I'm 21 yo.
-- 🛠️ I'm a Junior Backend Developer who is currently looking for a job.
+- 👋 Hi, I’m @AnxnimusDev, my name is Adrián Blanco, and I'm 22 yo.
+- 🛠️ I'm a Junior FullStack & Mobile Developer, currently working as a Junior Engineer at NttData.
 - 📚 I have experience and knowledge especially with Java, but with C#, Python, PL/SQL and GDScript as well.
 - 🌱 I’m currently enrolled in a Web Fullstack Bootcamp, and moreover I am currently learning Flutter using Dart, through Udemy.
 - 👀 I’m interested in videogames, movies, and music.
