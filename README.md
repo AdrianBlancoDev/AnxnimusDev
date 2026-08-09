@@ -14,7 +14,7 @@
 
 - 🛠️ Trabajo como **Junior Engineer en NTT DATA**, y compagino mi día a día con proyectos personales.
 - 📚 Mi stack principal es **Java**, y tengo experiencia adicional con **C#, Python, PL/SQL y GDScript**.
-- 🌱 Estoy cursando un **Bootcamp de Web Fullstack** y aprendiendo **Flutter con Dart** (Udemy) para dar el salto a mobile.
+- 🌱 Estoy afinando mis conocimientos en **Spring**, además de aprender algunas tecnologías de **Front** para ampliar mi stack, el cuál actualmente está orientado a **Backend Development**.
 - 👀 Fuera del código: videojuegos, cine y música.
 - 😄 Pronombres: he/him
 
